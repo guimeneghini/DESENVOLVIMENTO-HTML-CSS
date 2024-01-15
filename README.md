@@ -1,4 +1,4 @@
-Desenvolvimento-4-HTML-CSS
+Desenvolvimento-HTML-CSS
 Tarefa de exercício proposta pela Proz
 
 Primeira parte do exercício:
