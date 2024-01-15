@@ -1,0 +1,17 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+#navegacao {
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
