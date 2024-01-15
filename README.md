@@ -15,3 +15,11 @@ Segunda parte do exercício:
 Na nova página, fale sobre dois outros pontos turísticos do Recife Antigo e siga os pré-requisitos a seguir:
   1.crie um link que irá direcionar para essa nova página;
   2.adicione imagens sobre os lugares."
+
+Terceira parte do exercício: 
+
+Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
+
+Quarta parte do exercício:
+
+Pratique com o jogo Flexbox Froggy e aplique as propriedades flex box na página que você criou.
